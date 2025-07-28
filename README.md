@@ -34,7 +34,7 @@ O projeto simula uma plataforma de streaming, exibindo artistas e álbuns popula
 └── assets/
 ├── artistas
 ├── albuns
-├── Auralis-log-transparente.png
+├── Auralis-log-transparente.png 
 └── cyberpunkcity.gif
 
 yaml
