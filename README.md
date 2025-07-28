@@ -47,4 +47,4 @@ Editar
 
 1. Baixe ou clone este repositório:
    ```bash
-   git clone 
+   git clone https://github.com/xDynamo01/Auralis---Spotify-Clone-.git
