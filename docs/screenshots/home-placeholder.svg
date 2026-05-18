@@ -1,0 +1,12 @@
+<svg width="1200" height="720" viewBox="0 0 1200 720" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="720" fill="#05070A"/>
+  <rect x="40" y="40" width="250" height="640" rx="8" fill="#0C1117" stroke="#20303D"/>
+  <rect x="330" y="80" width="780" height="64" rx="8" fill="#121923"/>
+  <rect x="330" y="190" width="150" height="210" rx="8" fill="#121923"/>
+  <rect x="500" y="190" width="150" height="210" rx="8" fill="#121923"/>
+  <rect x="670" y="190" width="150" height="210" rx="8" fill="#121923"/>
+  <rect x="840" y="190" width="150" height="210" rx="8" fill="#121923"/>
+  <rect x="330" y="450" width="780" height="130" rx="8" fill="#0C1117" stroke="#20303D"/>
+  <circle cx="86" cy="88" r="24" fill="#19E6C1"/>
+  <text x="330" y="64" fill="#19E6C1" font-family="Arial" font-size="18" font-weight="700">AURALIS HOME PLACEHOLDER</text>
+</svg>

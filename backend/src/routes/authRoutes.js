@@ -1,0 +1,10 @@
+import { Router } from 'express';
+import { callback, login, logout, me } from '../controllers/authController.js';
+import { asyncHandler } from '../utils/asyncHandler.js';
+
+export const authRouter = Router();
+
+authRouter.get('/login', asyncHandler(login));
+authRouter.get('/callback', asyncHandler(callback));
+authRouter.post('/logout', logout);
+authRouter.get('/me', asyncHandler(me));

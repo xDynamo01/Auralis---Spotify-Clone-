@@ -1,0 +1,10 @@
+<svg width="1200" height="720" viewBox="0 0 1200 720" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="720" fill="#05070A"/>
+  <rect x="40" y="40" width="250" height="640" rx="8" fill="#0C1117" stroke="#20303D"/>
+  <rect x="330" y="120" width="620" height="64" rx="8" fill="#121923" stroke="#19E6C1"/>
+  <rect x="330" y="250" width="780" height="72" rx="8" fill="#0C1117" stroke="#20303D"/>
+  <rect x="330" y="340" width="780" height="72" rx="8" fill="#0C1117" stroke="#20303D"/>
+  <rect x="330" y="430" width="780" height="72" rx="8" fill="#0C1117" stroke="#20303D"/>
+  <circle cx="86" cy="88" r="24" fill="#19E6C1"/>
+  <text x="330" y="82" fill="#19E6C1" font-family="Arial" font-size="18" font-weight="700">AURALIS SEARCH PLACEHOLDER</text>
+</svg>

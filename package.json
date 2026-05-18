@@ -1,0 +1,20 @@
+{
+  "name": "auralis",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Auralis fullstack Spotify clone monorepo.",
+  "scripts": {
+    "dev:backend": "npm --prefix backend run dev",
+    "dev:frontend": "npm --prefix frontend run dev",
+    "lint": "npm --prefix frontend run lint && npm --prefix backend run lint",
+    "build": "npm --prefix frontend run build",
+    "test": "npm --prefix backend test"
+  },
+  "workspaces": [
+    "frontend",
+    "backend"
+  ],
+  "engines": {
+    "node": ">=20"
+  }
+}
